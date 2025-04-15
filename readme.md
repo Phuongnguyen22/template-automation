@@ -12,7 +12,7 @@ This repository contains tools and scripts for automating template generation an
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/template-automation.git
+    git clone https://github.com/linda-politetech/template-automation.git
     ```
 2. Navigate to the project directory:
     ```bash
